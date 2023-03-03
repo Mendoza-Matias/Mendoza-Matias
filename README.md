@@ -1,16 +1,19 @@
-### Hi there 👋
+# 💻 Matias Mendoza 💻
 
-<!--
-**Mendoza-Matias/Mendoza-Matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😁¡Hola! Mi nombre es Matías y tengo 20 años. Actualmente estoy estudiando la carrera de Tecnicatura en Programación.
 
-Here are some ideas to get you started:
+### 📝 - Tengo conocimientos en varias herramientas y lenguajes de programación como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML  
+* CSS, 
+* Node.js, 
+* JavaScript, 
+* React, 
+* MongoDB  
+* Bootstrap
+entre otros.
+
+### - Me considero una persona proactiva, creativa y con habilidades para trabajar en equipo. Además, soy capaz de resolver problemas rápidamente y adaptarme a nuevos entornos de trabajo. Estoy interesado en seguir aprendiendo y creciendo en mi carrera como programador, y espero poder contribuir al éxito de cualquier proyecto en el que me involucre.
+
+### 🖱 [Linkedin](https://www.linkedin.com/in/matias-mendoza-955170240/)
+### 🖱 [Cv](https://drive.google.com/file/d/1l2pIhMX1_CDtU8R2uOn7QISwzfUptOZW/view?usp=sharing)
