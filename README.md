@@ -21,7 +21,7 @@
 ### Contacto:
 
 * Correo electrónico: matias.mendoza.ezequiel.01@gmail.com
-* LinkedIn: [Matias Mendoza](linkedin.com/in/matias-profile)
+* LinkedIn: [Matias Mendoza]([linkedin.com/in/matias-profile](https://www.linkedin.com/in/matias-mendoza-955170240))
 
 #### ¡Gracias por visitar mi perfil! 🤗
 
