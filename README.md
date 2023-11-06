@@ -1,107 +1,112 @@
-# ***<ins><div align="center">Mendoza Matias </div></ins>***  
-  
+<h1 align="center">Mendoza Matias Ezequiel</h1>
 
-### *<div align="center">Full Stack Backend Java 👩‍💻</div>*  
-  
+<h3 align="center">Full stack developer java</h3>
+
+###
 
 <div align="center">
-<img src="https://dewey.edu/wp-content/uploads/2020/08/cbanner..jpg" align="center" style="width: 100%" />
-</div>  
-  
-## Sobre mi :
-
-Soy un desarrollador backend apasionado por la tecnología y comprometido con mi crecimiento personal y profesional en el ámbito del desarrollo de software. Soy proactivo , creativo , autodidacta y habilidoso para trabajar en equipo.
-Estoy seguro que mi amor por la tecnología y mi capacidad para desenvolverme con facilidad me permitirán enfrentar cualquier tipo de desafío con confianza y éxito.
-
-
-## Hablidades Blandas:  
-*💪 Proactivo*  
-  
-
-*⚡ Autodidacta*  
-  
-
-*🤝Colaborativo*  
-  
-
-*😎 Eficaz*  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-
+  <img height="200" src="https://wallpapers.com/images/hd/it-computer-b41v0jgiaucvgbsy.jpg"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<h3 align="left">Sobre mi</h3>
 
+###
 
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<p align="left">A lo largo de mi trayecto académico, he adquirido un amplio conjunto de conocimientos técnicos.<br> Mi enfoque actual se centra en el desarrollo de aplicaciones dinámicas, especialmente en el área del backend, y en la implementación de medidas de seguridad para proteger a los usuarios.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7126273247662198784/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/2/?ogbl#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<h3 align="left">Skills</h3>
 
+###
 
-### Software  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<p align="left">Frontend</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-</td></tr></table>  
+###
 
-<br/>  
+<p align="left">Backend</p>
 
+###
 
-## Conecta conmigo
-## Connect with me
-<div align="center">
-<a href="https://github.com/Mendoza-Matias" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matias-mendoza-955170240" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-<br/>  
+###
 
-----
+<p align="left">Frameworks</p>
 
-## About me:
+###
 
-I am a backend developer passionate about technology and committed to my personal and professional growth in the field of software development. I am proactive, creative, self-taught and skilled at teamwork.
-I am sure that my love of technology and my ability to cope with ease will allow me to face any kind of challenge with confidence and success.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
 
+###
 
-## Soft Skills:
-*💪 Proactive*
+<p align="left">Database</p>
 
+###
 
-*⚡ Self-taught*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
+###
 
-*🤝Collaborative*
+<p align="left">Herramientas y Trabajo</p>
 
+###
 
-*😎 Effective*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">Soft Skills</h3>
+
+###
+
+<p align="left">-Responsable<br>-Creativo <br>-Autodidacta <br>-Compañero <br>-Entusiasta <br>-Colaborador <br>-Capacidad para liderar</p>
+
+###
+
+<h3 align="left">Contacto</h3>
+
+<p align="left">Correo : mendoza.e.matias@gmail.com<br>Porfolio : https://porfolio-actualizado.vercel.app/views/perfil.html</p>
