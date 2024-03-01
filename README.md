@@ -27,14 +27,6 @@
 - **Postman, JWT, Cloudinary**
 - **HTML | CSS | JavaScript**
 
-<br>
-
-## Soft Skills:
-
-<p align="center">Responsable <br> Creativo Autodidacta <br> Entusiasta <br> 
-Capacidad para liderar</p>
-
-
 ## Contáctame 📬
 - LinkedIn: [Matias Mendoza](https://www.linkedin.com/in/matias-mendoza-955170240/)
 - Correo Electrónico: mendoza.e.matias@gmail.com
