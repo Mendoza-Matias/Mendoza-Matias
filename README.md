@@ -17,11 +17,12 @@
 <br>
 
 - **Java**
+- **Node.js | Express**
 - **Spring Boot**
 - **Spring Data JPA | Spring Security**
 - **Hibernate**
-- **SQL | MySQL**
-- **Angular | TypeScript**
+- **SQL | MySQL | MongoDB**
+- **Angular | TypeScript | Vue.js**
 - **JUnit & Mockito**
 - **Git | GitHub**
 - **Postman, JWT, Cloudinary**
