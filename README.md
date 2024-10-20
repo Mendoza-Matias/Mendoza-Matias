@@ -17,15 +17,13 @@
 <br>
 
 - **Java**
-- **Node.js | Express**
 - **Spring Boot**
 - **Spring Data JPA | Spring Security**
 - **Hibernate**
-- **SQL | MySQL | MongoDB**
-- **Angular | TypeScript | Vue.js**
-- **JUnit & Mockito**
+- **SQL | MySQL | Postgress**
+- **JUnit | Mockito**
 - **Git | GitHub**
-- **Postman, JWT, Cloudinary**
+- **Postman | JWT **
 - **HTML | CSS | JavaScript**
 
 ## Contáctame 📬
