@@ -23,7 +23,7 @@
 - **SQL | MySQL | Postgress**
 - **JUnit | Mockito**
 - **Git | GitHub**
-- **Postman | JWT **
+- **Postman | JWT**
 - **HTML | CSS | JavaScript**
 
 ## Contáctame 📬
