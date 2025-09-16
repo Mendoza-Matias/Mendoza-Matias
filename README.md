@@ -1,45 +1,30 @@
 <h2 align="left">Backend Developer 👨‍💻</h2>
 
-###
+<h3 align="left">👋 Sobre mí</h3>
 
-<h3 align="left">About me</h3>
+<p align="left">
+Me apasiona resolver problemas mientras aprendo y disfruto explorar nuevas tecnologías.  
+Actualmente curso la Tecnicatura en Programación y en mi tiempo libre desarrollo proyectos de forma freelance.  
+Mi enfoque principal está en el backend, aunque también me interesan mucho las automatizaciones y las redes informáticas.  
+Soy una persona perseverante: lo que me propongo lo aprendo y siempre busco dar lo mejor en cada proyecto.
+</p>
 
-###
+---
 
-<p align="left">My name is Matías, and I am a developer specialized in Java technology, with a focus on problem-solving and implementing efficient and precise solutions. Although I have knowledge in various areas, my main expertise is in web development.<br><br>I am currently pursuing a Technical Degree in Programming, with the goal of continuing my academic journey and obtaining a Bachelor's Degree in Computer Science.<br><br>I consider myself a proactive individual with a strong inclination toward teamwork. I am committed to seeking innovative solutions and continuously learning to refine my skills and achieve further growth both personally and professionally.</p>
-
-###
-
-<h3 align="left">I code with</h3>
-
-###
+<h3 align="left">🛠️ Tecnologías que uso</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
 </div>
 
-###
+---
 
-<h3 align="left">Contact</h3>
+<h3 align="left">📫 Contacto</h3>
 
-###
-
-<p align="left">mendoza.e.matias@gmail.com 💻</p>
-
-###
+<p align="left">
+  💻 mendoza.e.matias@gmail.com
+</p>
