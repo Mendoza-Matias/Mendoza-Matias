@@ -1,6 +1,5 @@
 <h2 align="left">👨‍💻 Backend Developer</h2>
 
----
 
 <h3 align="left">👋 Sobre mí</h3>
 
