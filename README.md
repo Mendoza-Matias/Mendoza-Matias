@@ -1,60 +1,42 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://imgs.search.brave.com/nnpRGPl4tWS7V7u4qdL6rwFnIGKfwpXscZulpiP0Bio/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eTJKWGtZMXBYa3dB/QUFBTS9jYXQtY29t/cHV0ZXIuZ2lm.gif"  />
+<div align="center">
+  <img
+    src="https://imgs.search.brave.com/nnpRGPl4tWS7V7u4qdL6rwFnIGKfwpXscZulpiP0Bio/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eTJKWGtZMXBYa3dB/QUFBTS9jYXQtY29t/cHV0ZXIuZ2lm.gif"
+    height="180"
+    alt="Coding cat"
+  />
 </div>
 
-###
+# Hi! I'm Matias Mendoza 👋
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/matias-mendoza-955170240/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mendoza.e.matias@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+### 🚀 Software Engineer | Backend Development | Java & Spring Boot
 
-###
+I'm a software engineer working at **Softtek in Buenos Aires**, specializing in backend development.
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+In my free time, I like to travel and spend time with my family. I consider myself practical and focused on **solving problems and teamwork**.
 
-###
+## 🛠️ Tech Stack
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+### **Backend & Core**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-###
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<p data-importer="text" align="left">My name is Matias; I'm a software engineer. I work at Softtek in Buenos Aires; I specialize in backend development. In my free time, I like to travel and spend time with my family. I consider myself practical and focused on solving problems and teamwork.</p>
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-###
+### **Frontend & Tools**
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+## 📫 Let's Connect
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
+- 💼 **LinkedIn:** [linkedin.com/in/matias-mendoza-955170240](https://www.linkedin.com/in/matias-mendoza-955170240/)
+- 📧 **Email:** [mendoza.e.matias@gmail.com](mailto:mendoza.e.matias@gmail.com)
